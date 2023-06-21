@@ -13,3 +13,92 @@
 
 <p style="margin-top: 15px;"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hardvan&show_icons=true&locale=en&layout=compact" alt="hardvan" /></p>
 <p style="margin-top: 15px;">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hardvan&show_icons=true&locale=en" alt="hardvan" /></p>
+
+## My Projects & Repositories
+
+### My Course & YouTube Tutorial Notes
+
+- [Infosys Java Programming Fundamentals](https://github.com/Hardvan/Infosys-Java-Programming-Fundamentals)
+- [Learning Java](https://github.com/Hardvan/Learning-Java)
+- [Learning Django](https://github.com/Hardvan/Learning-Django)
+- [The Complete Web Development Bootcamp Notes](https://github.com/Hardvan/web-dev-projects)
+
+### Automation Scripts
+
+- [Python File Reader](https://github.com/Hardvan/Python-File-Reader)
+- [Run Android Studio on Linux](https://github.com/Hardvan/Automated-Script-to-run-Android-Studio-on-Linux)
+
+### React.js
+
+- [SnapFire Gallery](https://github.com/Hardvan/SnapFire-Gallery)
+- [MERNgram](https://github.com/Hardvan/MERNgram)
+- [MERNograph](https://github.com/Hardvan/MERNograph)
+- [ReactifyGains](https://github.com/Hardvan/ReactifyGains)
+- [Flask & React Connect](https://github.com/Hardvan/Flask-React-Connect)
+- [PokeStats Website](https://github.com/Hardvan/PokeStats-Website)
+
+### Internship Projects
+
+- [Accessibility Service and UI Automator](https://github.com/Hardvan/Accessibility_services) (Samsung PRISM)
+- [Global Connectivity Framework and 5G IoT Resource Sharing](https://github.com/Hardvan/Global-Connectivity-Framework-and-5G-IoT-Resource-Sharing) (IEEE Summer Internship 2022)
+
+### Flask
+
+- [Emotion Detector](https://github.com/Hardvan/EmotionDetector)
+- [ScanSpeaker](https://github.com/Hardvan/ScanSpeaker)
+- [Paralyzed by Parallax](https://github.com/Hardvan/Paralyzed-by-Parallax)
+- [Text Scanner using EasyOCR](https://github.com/Hardvan/Text-Scanner-using-EasyOCR)
+- [CipherNet](https://github.com/Hardvan/CipherNet)
+- [The OS-sential Guide](https://github.com/Hardvan/The-OS-sential-Guide)
+
+### Machine Learning
+
+- [My Machine Learning Projects](https://github.com/Hardvan/My-Machine-Learning-Projects)
+
+### Useful Guides
+
+- [How to PR](https://github.com/Hardvan/How-to-PR)
+- [Deploy to Render](https://github.com/Hardvan/Deploy-to-Render)
+- [Deploy to PythonAnywhere](https://github.com/Hardvan/Deploy-to-PythonAnywhere)
+- [Trying Docker](https://github.com/Hardvan/Trying-Docker)
+- [Flask and Firebase Experiment](https://github.com/Hardvan/Flask-and-Firebase-Experiment)
+
+### RISC CPU using Logisim
+
+- [Hardik Hyperion Processor](https://github.com/Hardvan/CPU-Hack-2.0-Logisim)
+
+### Hackathon Projects
+
+- [In a Heart Beat](https://github.com/Hardvan/JITHack-v3) (JITHack 2023)
+- [Learning Gamified](https://github.com/Hardvan/LearningGamified) (EducateHacks 2023)
+
+### Data Privacy Projects
+
+- [Incremental Diversity](https://github.com/Hardvan/Incremental-Diversity), [Website for Incremental Diversity](https://github.com/Hardvan/Website-Incremental-Diversity)
+
+### Computer Vision Projects
+
+- [SpyEye](https://github.com/Hardvan/SpyEye)
+- [Volume Control, Virtual Drag & Drop](https://github.com/Hardvan/Computer-Vision-Projects)
+
+### Telegram Bots
+
+- [ChatMate](https://github.com/Hardvan/ChatMate)
+
+### Linux Projects
+
+- [HardikHyperionOS](https://github.com/Hardvan/HardikHyperionOS)
+
+### React Native Projects
+
+- [First React Native App](https://github.com/Hardvan/First-React-Native-App)
+- [InsightTracker](https://github.com/Hardvan/InsightTracker)
+
+### Competitive Programming Solutions
+
+- [My CodeChef Solutions](https://github.com/Hardvan/My-CodeChef-Solutions)
+- [My LeetCode Solutions](https://github.com/Hardvan/My-Leetcode-Solutions)
+
+### Python Projects
+
+- [Pokemon Game](https://github.com/Hardvan/Pokemon-Game)
