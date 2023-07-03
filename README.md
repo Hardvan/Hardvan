@@ -40,7 +40,7 @@
 - [Infosys Java Programming Fundamentals](https://github.com/Hardvan/Infosys-Java-Programming-Fundamentals)
 - [Learning Java](https://github.com/Hardvan/Learning-Java)
 - [Learning Django](https://github.com/Hardvan/Learning-Django)
-- [The Complete Web Development Bootcamp Notes](https://github.com/Hardvan/web-dev-projects)
+- [The Complete Web Development Bootcamp Notes](https://github.com/Hardvan/Web-Dev-Projects-v2)
 
 ### Useful Guides
 
