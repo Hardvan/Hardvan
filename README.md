@@ -36,6 +36,7 @@
 - [Learning Gamified](https://github.com/Hardvan/LearningGamified) (EducateHacks 2023)
 
 ### CISCO Skill Lab
+
 - [CISCO Skill Lab Code & Material](https://github.com/Hardvan/CISCO-Skill-Lab)
 
 ### My Notes of Courses/Tutorials
@@ -43,7 +44,11 @@
 - [Infosys Java Programming Fundamentals](https://github.com/Hardvan/Infosys-Java-Programming-Fundamentals)
 - [Learning Java](https://github.com/Hardvan/Learning-Java)
 - [Learning Django](https://github.com/Hardvan/Learning-Django)
-- [The Complete Web Development Bootcamp Notes](https://github.com/Hardvan/Web-Dev-Projects-v2)
+- [The Complete Web Development Bootcamp Notes](https://github.com/Hardvan/web-dev-projects)
+
+### NPTEL Data Science for Engineers
+
+- [NPTEL Data Science for Engineers](https://github.com/Hardvan/NPTEL-Data-Science-for-Engineers)
 
 ### Useful Guides
 
