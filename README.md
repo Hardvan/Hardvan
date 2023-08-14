@@ -45,6 +45,7 @@
 - [Learning Java](https://github.com/Hardvan/Learning-Java)
 - [Learning Django](https://github.com/Hardvan/Learning-Django)
 - [The Complete Web Development Bootcamp Notes](https://github.com/Hardvan/web-dev-projects)
+- [Python for Data Science and Machine Learning Bootcamp](https://github.com/Hardvan/ML-Data-Science-Udemy)
 - [C++ Notes from Programiz](https://github.com/Hardvan/CPP-from-Programiz)
 - [Kotlin Notes from Programiz](https://github.com/Hardvan/Kotlin-Programming-Programiz)
 
