@@ -19,98 +19,134 @@
 
 ### Flask Based
 
-- [Emotion Detector](https://github.com/Hardvan/EmotionDetector)
-- [ScanSpeaker](https://github.com/Hardvan/ScanSpeaker)
-- [Paralyzed by Parallax](https://github.com/Hardvan/Paralyzed-by-Parallax)
-- [The OS-sential Guide](https://github.com/Hardvan/The-OS-sential-Guide)
-- [Text Scanner using EasyOCR](https://github.com/Hardvan/Text-Scanner-using-EasyOCR)
-- [CipherNet](https://github.com/Hardvan/CipherNet)
+| Sl. No. | Project                                                                             |
+| ------- | ----------------------------------------------------------------------------------- |
+| 1.      | [Emotion Detector](https://github.com/Hardvan/EmotionDetector)                      |
+| 2.      | [ScanSpeaker](https://github.com/Hardvan/ScanSpeaker)                               |
+| 3.      | [Paralyzed by Parallax](https://github.com/Hardvan/Paralyzed-by-Parallax)           |
+| 4.      | [The OS-sential Guide](https://github.com/Hardvan/The-OS-sential-Guide)             |
+| 5.      | [Text Scanner using EasyOCR](https://github.com/Hardvan/Text-Scanner-using-EasyOCR) |
+| 6.      | [CipherNet](https://github.com/Hardvan/CipherNet)                                   |
 
 ### Internship Projects
 
-- [Accessibility Service and UI Automator](https://github.com/Hardvan/Accessibility_services) (Samsung PRISM)
-- [Global Connectivity Framework and 5G IoT Resource Sharing](https://github.com/Hardvan/Global-Connectivity-Framework-and-5G-IoT-Resource-Sharing) (IEEE Summer Internship)
+| Sl. No. | Project                                                                                                                                                                    |
+| ------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1.      | [Accessibility Service and UI Automator](https://github.com/Hardvan/Accessibility_services) (Samsung PRISM)                                                                |
+| 2.      | [Global Connectivity Framework and 5G IoT Resource Sharing](https://github.com/Hardvan/Global-Connectivity-Framework-and-5G-IoT-Resource-Sharing) (IEEE Summer Internship) |
 
 ### Hackathon Projects
 
-- [In a Heart Beat](https://github.com/Hardvan/JITHack-v3) (JITHack 2023)
-- [Learning Gamified](https://github.com/Hardvan/LearningGamified) (EducateHacks 2023)
+| Sl. No. | Project                                                                              |
+| ------- | ------------------------------------------------------------------------------------ |
+| 1.      | [In a Heart Beat](https://github.com/Hardvan/JITHack-v3) (JITHack 2023)              |
+| 2.      | [Learning Gamified](https://github.com/Hardvan/LearningGamified) (EducateHacks 2023) |
 
 ### CISCO Skill Lab
 
-- [CISCO Skill Lab Code & Material](https://github.com/Hardvan/CISCO-Skill-Lab)
+| Sl. No. | Project                                                                       |
+| ------- | ----------------------------------------------------------------------------- |
+| 1.      | [CISCO Skill Lab Code & Material](https://github.com/Hardvan/CISCO-Skill-Lab) |
 
 ### My Notes of Courses/Tutorials
 
-- [Infosys Java Programming Fundamentals](https://github.com/Hardvan/Infosys-Java-Programming-Fundamentals)
-- [Learning Java](https://github.com/Hardvan/Learning-Java)
-- [Learning Django](https://github.com/Hardvan/Learning-Django)
-- [The Complete Web Development Bootcamp Notes](https://github.com/Hardvan/web-dev-projects)
-- [Python for Data Science and Machine Learning Bootcamp](https://github.com/Hardvan/ML-Data-Science-Udemy)
-- [C++ Notes from Programiz](https://github.com/Hardvan/CPP-from-Programiz)
-- [Kotlin Notes from Programiz](https://github.com/Hardvan/Kotlin-Programming-Programiz)
+| Sl. No. | Project                                                                                                   |
+| ------- | --------------------------------------------------------------------------------------------------------- |
+| 1.      | [Infosys Java Programming Fundamentals](https://github.com/Hardvan/Infosys-Java-Programming-Fundamentals) |
+| 2.      | [Learning Java](https://github.com/Hardvan/Learning-Java)                                                 |
+| 3.      | [Learning Django](https://github.com/Hardvan/Learning-Django)                                             |
+| 4.      | [The Complete Web Development Bootcamp Notes](https://github.com/Hardvan/web-dev-projects)                |
+| 5.      | [Python for Data Science and Machine Learning Bootcamp](https://github.com/Hardvan/ML-Data-Science-Udemy) |
+| 6.      | [C++ Notes from Programiz](https://github.com/Hardvan/CPP-from-Programiz)                                 |
+| 7.      | [Kotlin Notes from Programiz](https://github.com/Hardvan/Kotlin-Programming-Programiz)                    |
 
 ### NPTEL Data Science for Engineers
 
-- [NPTEL Data Science for Engineers](https://github.com/Hardvan/NPTEL-Data-Science-for-Engineers)
+| Sl. No. | Project                                                                                         |
+| ------- | ----------------------------------------------------------------------------------------------- |
+| 1.      | [NPTEL Data Science for Engineers](https://github.com/Hardvan/NPTEL-Data-Science-for-Engineers) |
 
 ### Useful Guides
 
-- [How to PR](https://github.com/Hardvan/How-to-PR)
-- [Deploy to Render](https://github.com/Hardvan/Deploy-to-Render)
-- [Deploy to PythonAnywhere](https://github.com/Hardvan/Deploy-to-PythonAnywhere)
-- [Trying Docker](https://github.com/Hardvan/Trying-Docker)
-- [Flask and Firebase Experiment](https://github.com/Hardvan/Flask-and-Firebase-Experiment)
+| Sl. No. | Project                                                                                   |
+| ------- | ----------------------------------------------------------------------------------------- |
+| 1.      | [How to PR](https://github.com/Hardvan/How-to-PR)                                         |
+| 2.      | [Deploy to Render](https://github.com/Hardvan/Deploy-to-Render)                           |
+| 3.      | [Deploy to PythonAnywhere](https://github.com/Hardvan/Deploy-to-PythonAnywhere)           |
+| 4.      | [Trying Docker](https://github.com/Hardvan/Trying-Docker)                                 |
+| 5.      | [Flask and Firebase Experiment](https://github.com/Hardvan/Flask-and-Firebase-Experiment) |
 
 ### Automation Scripts
 
-- [Python File Reader](https://github.com/Hardvan/Python-File-Reader)
-- [Run Android Studio on Linux](https://github.com/Hardvan/Automated-Script-to-run-Android-Studio-on-Linux)
+| Sl. No. | Project                                                                                                   |
+| ------- | --------------------------------------------------------------------------------------------------------- |
+| 1.      | [Python File Reader](https://github.com/Hardvan/Python-File-Reader)                                       |
+| 2.      | [Run Android Studio on Linux](https://github.com/Hardvan/Automated-Script-to-run-Android-Studio-on-Linux) |
 
 ### Competitive Programming Solutions
 
-- [My CodeChef Solutions](https://github.com/Hardvan/My-CodeChef-Solutions)
-- [My LeetCode Solutions](https://github.com/Hardvan/My-Leetcode-Solutions)
+| Sl. No. | Project                                                                   |
+| ------- | ------------------------------------------------------------------------- |
+| 1.      | [My CodeChef Solutions](https://github.com/Hardvan/My-CodeChef-Solutions) |
+| 2.      | [My LeetCode Solutions](https://github.com/Hardvan/My-Leetcode-Solutions) |
 
 ### React.js Based
 
-- [SnapFire Gallery](https://github.com/Hardvan/SnapFire-Gallery)
-- [MERNgram](https://github.com/Hardvan/MERNgram)
-- [MERNograph](https://github.com/Hardvan/MERNograph)
-- [ReactifyGains](https://github.com/Hardvan/ReactifyGains)
-- [Flask & React Connect](https://github.com/Hardvan/Flask-React-Connect)
-- [PokeStats Website](https://github.com/Hardvan/PokeStats-Website)
+| Sl. No. | Project                                                                 |
+| ------- | ----------------------------------------------------------------------- |
+| 1.      | [SnapFire Gallery](https://github.com/Hardvan/SnapFire-Gallery)         |
+| 2.      | [MERNgram](https://github.com/Hardvan/MERNgram)                         |
+| 3.      | [MERNograph](https://github.com/Hardvan/MERNograph)                     |
+| 4.      | [ReactifyGains](https://github.com/Hardvan/ReactifyGains)               |
+| 5.      | [Flask & React Connect](https://github.com/Hardvan/Flask-React-Connect) |
+| 6.      | [PokeStats Website](https://github.com/Hardvan/PokeStats-Website)       |
 
 ### Machine Learning
 
-- [My Machine Learning Projects](https://github.com/Hardvan/My-Machine-Learning-Projects)
+| Sl. No. | Project                                                                                 |
+| ------- | --------------------------------------------------------------------------------------- |
+| 1.      | [My Machine Learning Projects](https://github.com/Hardvan/My-Machine-Learning-Projects) |
 
 ### Data Privacy
 
-- [Incremental Diversity](https://github.com/Hardvan/Incremental-Diversity), [Website for Incremental Diversity](https://github.com/Hardvan/Website-Incremental-Diversity)
+| Sl. No. | Project                                                                                                                                                                  |
+| ------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 1.      | [Incremental Diversity](https://github.com/Hardvan/Incremental-Diversity), [Website for Incremental Diversity](https://github.com/Hardvan/Website-Incremental-Diversity) |
 
 ### Computer Vision
 
-- [SpyEye](https://github.com/Hardvan/SpyEye)
-- [Volume Control, Virtual Drag & Drop](https://github.com/Hardvan/Computer-Vision-Projects)
+| Sl. No. | Project                                                                                    |
+| ------- | ------------------------------------------------------------------------------------------ |
+| 1.      | [SpyEye](https://github.com/Hardvan/SpyEye)                                                |
+| 2.      | [Volume Control, Virtual Drag & Drop](https://github.com/Hardvan/Computer-Vision-Projects) |
 
 ### Linux
 
-- [HardikHyperionOS](https://github.com/Hardvan/HardikHyperionOS)
+| Sl. No. | Project                                                         |
+| ------- | --------------------------------------------------------------- |
+| 1.      | [HardikHyperionOS](https://github.com/Hardvan/HardikHyperionOS) |
 
 ### React Native
 
-- [First React Native App](https://github.com/Hardvan/First-React-Native-App)
-- [InsightTracker](https://github.com/Hardvan/InsightTracker)
+| Sl. No. | Project                                                                     |
+| ------- | --------------------------------------------------------------------------- |
+| 1.      | [First React Native App](https://github.com/Hardvan/First-React-Native-App) |
+| 2.      | [InsightTracker](https://github.com/Hardvan/InsightTracker)                 |
 
 ### Python-Intensive
 
-- [Pokemon Game](https://github.com/Hardvan/Pokemon-Game)
+| Sl. No. | Project                                                 |
+| ------- | ------------------------------------------------------- |
+| 1.      | [Pokemon Game](https://github.com/Hardvan/Pokemon-Game) |
 
 ### RISC CPU using Logisim
 
-- [Hardik Hyperion Processor](https://github.com/Hardvan/CPU-Hack-2.0-Logisim)
+| Sl. No. | Project                                                                      |
+| ------- | ---------------------------------------------------------------------------- |
+| 1.      | [Hardik Hyperion Processor](https://github.com/Hardvan/CPU-Hack-2.0-Logisim) |
 
 ### Telegram Bots
 
-- [ChatMate](https://github.com/Hardvan/ChatMate)
+| Sl. No. | Project                                         |
+| ------- | ----------------------------------------------- |
+| 1.      | [ChatMate](https://github.com/Hardvan/ChatMate) |
