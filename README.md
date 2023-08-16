@@ -139,6 +139,12 @@
 | ------- | ------------------------------------------------------- |
 | 1.      | [Pokemon Game](https://github.com/Hardvan/Pokemon-Game) |
 
+### Electron Based
+
+| Sl. No. | Project                                                                         |
+| ------- | ------------------------------------------------------------------------------- |
+| 1.      | [Electron Screen Recorder](https://github.com/Hardvan/Electron-Screen-Recorder) |
+
 ### RISC CPU using Logisim
 
 | Sl. No. | Project                                                                      |
