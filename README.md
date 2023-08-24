@@ -53,10 +53,11 @@
 | Sl. No. | Project                                                                                                   |
 | ------- | --------------------------------------------------------------------------------------------------------- |
 | 1.      | [Infosys Java Programming Fundamentals](https://github.com/Hardvan/Infosys-Java-Programming-Fundamentals) |
-| 2.      | [Learning Java](https://github.com/Hardvan/Learning-Java)                                                 |
-| 3.      | [Learning Django](https://github.com/Hardvan/Learning-Django)                                             |
-| 4.      | [The Complete Web Development Bootcamp Notes](https://github.com/Hardvan/web-dev-projects)                |
-| 5.      | [Python for Data Science and Machine Learning Bootcamp](https://github.com/Hardvan/ML-Data-Science-Udemy) |
+| 2.      | [The Complete Web Development Bootcamp Notes](https://github.com/Hardvan/web-dev-projects)                |
+| 3.      | [Python for Data Science and Machine Learning Bootcamp](https://github.com/Hardvan/ML-Data-Science-Udemy) |
+| 4.      | [Learning Java](https://github.com/Hardvan/Learning-Java)                                                 |
+| 5.      | [Learning Django](https://github.com/Hardvan/Learning-Django)                                             |
+| 6.      | [C Notes from Programiz](https://github.com/Hardvan/C-from-Programiz)                                     |
 | 6.      | [C++ Notes from Programiz](https://github.com/Hardvan/CPP-from-Programiz)                                 |
 | 7.      | [Kotlin Notes from Programiz](https://github.com/Hardvan/Kotlin-Programming-Programiz)                    |
 
