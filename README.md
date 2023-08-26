@@ -61,12 +61,6 @@
 | 6.      | [C++ Notes from Programiz](https://github.com/Hardvan/CPP-from-Programiz)                                 |
 | 7.      | [Kotlin Notes from Programiz](https://github.com/Hardvan/Kotlin-Programming-Programiz)                    |
 
-### NPTEL Data Science for Engineers
-
-| Sl. No. | Project                                                                                         |
-| ------- | ----------------------------------------------------------------------------------------------- |
-| 1.      | [NPTEL Data Science for Engineers](https://github.com/Hardvan/NPTEL-Data-Science-for-Engineers) |
-
 ### Useful Guides
 
 | Sl. No. | Project                                                                                   |
@@ -85,6 +79,12 @@
 | 2.      | [Python File Reader](https://github.com/Hardvan/Python-File-Reader)                                       |
 | 3.      | [Run Android Studio on Linux](https://github.com/Hardvan/Automated-Script-to-run-Android-Studio-on-Linux) |
 | 4.      | [EXEcutor](https://github.com/Hardvan/EXEcutor)                                                           |
+
+### NPTEL Data Science for Engineers
+
+| Sl. No. | Project                                                                                         |
+| ------- | ----------------------------------------------------------------------------------------------- |
+| 1.      | [NPTEL Data Science for Engineers](https://github.com/Hardvan/NPTEL-Data-Science-for-Engineers) |
 
 ### Competitive Programming Solutions
 
@@ -123,7 +123,7 @@
 | 1.      | [SpyEye](https://github.com/Hardvan/SpyEye)                                                |
 | 2.      | [Volume Control, Virtual Drag & Drop](https://github.com/Hardvan/Computer-Vision-Projects) |
 
-### Linux
+### Linux Kernel Development
 
 | Sl. No. | Project                                                         |
 | ------- | --------------------------------------------------------------- |
@@ -138,9 +138,10 @@
 
 ### Python-Intensive
 
-| Sl. No. | Project                                                 |
-| ------- | ------------------------------------------------------- |
-| 1.      | [Pokemon Game](https://github.com/Hardvan/Pokemon-Game) |
+| Sl. No. | Project                                                                                                           |
+| ------- | ----------------------------------------------------------------------------------------------------------------- |
+| 1.      | [Pokemon Game](https://github.com/Hardvan/Pokemon-Game)                                                           |
+| 2.      | [Maze Solver using Ant Colony Optimization](https://github.com/Hardvan/Maze-Solver-using-Ant-Colony-Optimization) |
 
 ### Electron Based
 
