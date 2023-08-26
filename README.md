@@ -84,6 +84,7 @@
 | 1.      | [DirecTracer](https://github.com/Hardvan/DirecTracer)                                                     |
 | 2.      | [Python File Reader](https://github.com/Hardvan/Python-File-Reader)                                       |
 | 3.      | [Run Android Studio on Linux](https://github.com/Hardvan/Automated-Script-to-run-Android-Studio-on-Linux) |
+| 4.      | [EXEcutor](https://github.com/Hardvan/EXEcutor)                                                           |
 
 ### Competitive Programming Solutions
 
