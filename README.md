@@ -66,7 +66,7 @@
 | 12.     | [Kotlin Notes from Programiz](https://github.com/Hardvan/Kotlin-Programming-Programiz)                       |
 | 13.     | [GeeksForGeeks Practice](https://github.com/Hardvan/GeeksForGeeks-Practice)                                  |
 
-### Useful Guides
+### My Useful Guides
 
 | Sl. No. | Project                                                                                   |
 | ------- | ----------------------------------------------------------------------------------------- |
