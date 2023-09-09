@@ -50,16 +50,21 @@
 
 ### My Notes of Courses/Tutorials
 
-| Sl. No. | Project                                                                                                   |
-| ------- | --------------------------------------------------------------------------------------------------------- |
-| 1.      | [Infosys Java Programming Fundamentals](https://github.com/Hardvan/Infosys-Java-Programming-Fundamentals) |
-| 2.      | [The Complete Web Development Bootcamp Notes](https://github.com/Hardvan/web-dev-projects)                |
-| 3.      | [Python for Data Science and Machine Learning Bootcamp](https://github.com/Hardvan/ML-Data-Science-Udemy) |
-| 4.      | [Learning Java](https://github.com/Hardvan/Learning-Java)                                                 |
-| 5.      | [Learning Django](https://github.com/Hardvan/Learning-Django)                                             |
-| 6.      | [C Notes from Programiz](https://github.com/Hardvan/C-from-Programiz)                                     |
-| 6.      | [C++ Notes from Programiz](https://github.com/Hardvan/CPP-from-Programiz)                                 |
-| 7.      | [Kotlin Notes from Programiz](https://github.com/Hardvan/Kotlin-Programming-Programiz)                    |
+| Sl. No. | Project                                                                                                      |
+| ------- | ------------------------------------------------------------------------------------------------------------ |
+| 1.      | [Infosys Java Programming Fundamentals](https://github.com/Hardvan/Infosys-Java-Programming-Fundamentals)    |
+| 2.      | [The Complete Web Development Bootcamp Notes](https://github.com/Hardvan/web-dev-projects)                   |
+| 3.      | [Python for Data Science and Machine Learning Bootcamp](https://github.com/Hardvan/ML-Data-Science-Udemy)    |
+| 4.      | [Computer Vision and Deep Learning Bootcamp](https://github.com/Hardvan/Computer-Vision-Deep-Learning-Udemy) |
+| 5.      | [Flask Bootcamp](https://github.com/Hardvan/Flask-Bootcamp)                                                  |
+| 6.      | [Python Bootcamp Udemy](https://github.com/Hardvan/Python-Bootcamp-Udemy)                                    |
+| 7.      | [Learning Java](https://github.com/Hardvan/Learning-Java)                                                    |
+| 8.      | [Learning Django](https://github.com/Hardvan/Learning-Django)                                                |
+| 9.      | [Deep Learning A-Z Udemy](https://github.com/Hardvan/Deep-Learning-A-Z-Udemy)                                |
+| 10.     | [C Notes from Programiz](https://github.com/Hardvan/C-from-Programiz)                                        |
+| 11.     | [C++ Notes from Programiz](https://github.com/Hardvan/CPP-from-Programiz)                                    |
+| 12.     | [Kotlin Notes from Programiz](https://github.com/Hardvan/Kotlin-Programming-Programiz)                       |
+| 13.     | [GeeksForGeeks Practice](https://github.com/Hardvan/GeeksForGeeks-Practice)                                  |
 
 ### Useful Guides
 
@@ -109,6 +114,7 @@
 | Sl. No. | Project                                                                                 |
 | ------- | --------------------------------------------------------------------------------------- |
 | 1.      | [My Machine Learning Projects](https://github.com/Hardvan/My-Machine-Learning-Projects) |
+| 2.      | [Brain Tumor Classification](https://github.com/Hardvan/Brain-Tumor-Classification)     |
 
 ### Data Privacy
 
