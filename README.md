@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hardvan</h1>
-<h3 align="center">A passionate programmer and a calm coder, exploring the ever-expanding vastness of Computer Science.</h3>
+<h3 align="center">A cool, calm, collected coder and passionate programmer, exploring the ever-expanding vastness of Computer Science.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Hardvan&theme=onedark" alt="Hardvan" /></a> </p>
 
