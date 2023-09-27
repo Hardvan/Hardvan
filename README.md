@@ -27,6 +27,8 @@
 | 4.      | [The OS-sential Guide](https://github.com/Hardvan/The-OS-sential-Guide)             |
 | 5.      | [Text Scanner using EasyOCR](https://github.com/Hardvan/Text-Scanner-using-EasyOCR) |
 | 6.      | [CipherNet](https://github.com/Hardvan/CipherNet)                                   |
+| 7.      | [Sentimentinator](https://github.com/Hardvan/Sentimentinator)                       |
+| 8.      | [FaceCounter](https://github.com/Hardvan/FaceCounter)                               |
 
 ### Internship Projects
 
