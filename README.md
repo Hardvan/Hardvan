@@ -83,10 +83,11 @@
 
 | Sl. No. | Project                                                                                                   |
 | ------- | --------------------------------------------------------------------------------------------------------- |
-| 1.      | [DirecTracer](https://github.com/Hardvan/DirecTracer)                                                     |
-| 2.      | [Python File Reader](https://github.com/Hardvan/Python-File-Reader)                                       |
-| 3.      | [Run Android Studio on Linux](https://github.com/Hardvan/Automated-Script-to-run-Android-Studio-on-Linux) |
-| 4.      | [EXEcutor](https://github.com/Hardvan/EXEcutor)                                                           |
+| 1.      | [FlaskStarter](https://github.com/Hardvan/FlaskStarter)                                                   |
+| 2.      | [DirecTracer](https://github.com/Hardvan/DirecTracer)                                                     |
+| 3.      | [Python File Reader](https://github.com/Hardvan/Python-File-Reader)                                       |
+| 4.      | [Run Android Studio on Linux](https://github.com/Hardvan/Automated-Script-to-run-Android-Studio-on-Linux) |
+| 5.      | [EXEcutor](https://github.com/Hardvan/EXEcutor)                                                           |
 
 ### NPTEL Data Science for Engineers
 
