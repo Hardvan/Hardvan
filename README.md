@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hardvan</h1>
 <h3 align="center">A cool, calm, collected coder and passionate programmer, exploring the ever-expanding vastness of Computer Science.</h3>
 
-![Hardvan Profile Views](https://komarev.com/ghpvc/?username=hardvan&style=for-the-badge&color=blue)
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Hardvan&theme=onedark" alt="Hardvan" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
