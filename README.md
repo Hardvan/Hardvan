@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Hardvan</h1>
 <h3 align="center">A cool, calm, collected coder and passionate programmer, exploring the ever-expanding vastness of Computer Science.</h3>
 
+![Hardvan Profile Views](https://komarev.com/ghpvc/?username=hardvan&style=for-the-badge&color=blue)
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Hardvan&theme=onedark" alt="Hardvan" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
@@ -16,6 +18,8 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hardvan&show_icons=true&locale=en&layout=compact&theme=dracula" alt="hardvan" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hardvan&show_icons=true&locale=en&theme=dracula" alt="hardvan" /></p>
 </div>
+
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hardvan&theme=dracula" alt="hardvan" /></p>
 
 [![@Hardvan's Holopin board](https://holopin.io/api/user/board?user=hardvan)](https://www.holopin.io/@hardvan#)
 
