@@ -56,7 +56,7 @@
 | --- | ----------------------------------------------------------------------------- |
 | 1.  | [CISCO Skill Lab Code & Material](https://github.com/Hardvan/CISCO-Skill-Lab) |
 
-### My Notes of Courses/Tutorials
+### Notes of Courses/Tutorials
 
 | #   | Project                                                                                                      |
 | --- | ------------------------------------------------------------------------------------------------------------ |
@@ -73,7 +73,7 @@
 | 11. | [Kotlin Notes from Programiz](https://github.com/Hardvan/Kotlin-Programming-Programiz)                       |
 | 12. | [GeeksForGeeks Practice](https://github.com/Hardvan/GeeksForGeeks-Practice)                                  |
 
-### My Useful Guides
+### Useful Guides
 
 | #   | Project                                                                                   |
 | --- | ----------------------------------------------------------------------------------------- |
@@ -89,9 +89,10 @@
 | --- | --------------------------------------------------------------------------------------------------------- |
 | 1.  | [FlaskStarter](https://github.com/Hardvan/FlaskStarter)                                                   |
 | 2.  | [DirecTracer](https://github.com/Hardvan/DirecTracer)                                                     |
-| 3.  | [Python File Reader](https://github.com/Hardvan/Python-File-Reader)                                       |
-| 4.  | [Run Android Studio on Linux](https://github.com/Hardvan/Automated-Script-to-run-Android-Studio-on-Linux) |
-| 5.  | [EXEcutor](https://github.com/Hardvan/EXEcutor)                                                           |
+| 3.  | [CPPinator](https://github.com/Hardvan/CPPinator)                                                         |
+| 4.  | [Python File Reader](https://github.com/Hardvan/Python-File-Reader)                                       |
+| 5.  | [Run Android Studio on Linux](https://github.com/Hardvan/Automated-Script-to-run-Android-Studio-on-Linux) |
+| 6.  | [EXEcutor](https://github.com/Hardvan/EXEcutor)                                                           |
 
 ### NPTEL Data Science for Engineers
 
