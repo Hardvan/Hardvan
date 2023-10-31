@@ -19,7 +19,7 @@
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hardvan&theme=dracula" alt="hardvan" /></p>
 
-[![@Hardvan's Holopin board](https://holopin.io/api/user/board?user=hardvan)](https://www.holopin.io/@hardvan#)
+[![An image of @hardvan's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/hardvan)](https://holopin.io/@hardvan)
 
 ## My Projects & Repositories
 
