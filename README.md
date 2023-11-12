@@ -146,19 +146,33 @@
 | --- | --------------------------------------------------------------- |
 | 1.  | [HardikHyperionOS](https://github.com/Hardvan/HardikHyperionOS) |
 
-### React Native
-
-| #   | Project                                                                     |
-| --- | --------------------------------------------------------------------------- |
-| 1.  | [First React Native App](https://github.com/Hardvan/First-React-Native-App) |
-| 2.  | [InsightTracker](https://github.com/Hardvan/InsightTracker)                 |
-
 ### Python-Intensive
 
 | #   | Project                                                                                                           |
 | --- | ----------------------------------------------------------------------------------------------------------------- |
 | 1.  | [Pokemon Game](https://github.com/Hardvan/Pokemon-Game)                                                           |
 | 2.  | [Maze Solver using Ant Colony Optimization](https://github.com/Hardvan/Maze-Solver-using-Ant-Colony-Optimization) |
+
+### Android Studio
+
+| #   | Project                                                                                   |
+| --- | ----------------------------------------------------------------------------------------- |
+| 1.  | [Morse Code App](https://github.com/Hardvan/Morse-Code-App.git)                           |
+| 2.  | [Number Guessing Game](https://github.com/Hardvan/Number-Guessing-Game.git)               |
+| 3.  | [Rock Paper Scissors App](https://github.com/Hardvan/Rock-Paper-Scissors-Android-App.git) |
+| 4.  | [Number Convertor](https://github.com/Hardvan/Number-Convertor.git)                       |
+| 5.  | [Emergency Caller App](https://github.com/Hardvan/Emergency-Caller-App.git)               |
+| 6.  | [QuickLogin App](https://github.com/Hardvan/QuickLogin-App.git)                           |
+| 7.  | [QuickLauncher App](https://github.com/Hardvan/QuickLauncher-App.git)                     |
+| 8.  | [Prime Numbers App](https://github.com/Hardvan/Prime-Numbers-App.git)                     |
+| 9.  | [Randomizer](https://github.com/Hardvan/Randomizer.git)                                   |
+
+### React Native
+
+| #   | Project                                                                     |
+| --- | --------------------------------------------------------------------------- |
+| 1.  | [First React Native App](https://github.com/Hardvan/First-React-Native-App) |
+| 2.  | [InsightTracker](https://github.com/Hardvan/InsightTracker)                 |
 
 ### Electron Based
 
