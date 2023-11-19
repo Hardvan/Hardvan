@@ -23,7 +23,7 @@
 
 ## My Projects & Repositories
 
-### Flask Based
+### Flask Based 🧪
 
 | #   | Project                                                                             |
 | --- | ----------------------------------------------------------------------------------- |
@@ -36,27 +36,27 @@
 | 7.  | [Sentimentinator](https://github.com/Hardvan/Sentimentinator)                       |
 | 8.  | [FaceCounter](https://github.com/Hardvan/FaceCounter)                               |
 
-### Internship Projects
+### Internship Projects 🏢
 
 | #   | Project                                                                                                                                                                    |
 | --- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1.  | [Accessibility Service and UI Automator](https://github.com/Hardvan/Accessibility_services) (Samsung PRISM)                                                                |
 | 2.  | [Global Connectivity Framework and 5G IoT Resource Sharing](https://github.com/Hardvan/Global-Connectivity-Framework-and-5G-IoT-Resource-Sharing) (IEEE Summer Internship) |
 
-### Hackathon Projects
+### Hackathon Projects 💻
 
 | #   | Project                                                                              |
 | --- | ------------------------------------------------------------------------------------ |
 | 1.  | [In a Heart Beat](https://github.com/Hardvan/JITHack-v3) (JITHack 2023)              |
 | 2.  | [Learning Gamified](https://github.com/Hardvan/LearningGamified) (EducateHacks 2023) |
 
-### CISCO Skill Lab
+### CISCO Skill Lab 📚
 
 | #   | Project                                                                       |
 | --- | ----------------------------------------------------------------------------- |
 | 1.  | [CISCO Skill Lab Code & Material](https://github.com/Hardvan/CISCO-Skill-Lab) |
 
-### Notes of Courses/Tutorials
+### Notes of Courses/Tutorials 📝
 
 | #   | Project                                                                                                      |
 | --- | ------------------------------------------------------------------------------------------------------------ |
@@ -74,7 +74,7 @@
 | 12. | [Kotlin Notes from Programiz](https://github.com/Hardvan/Kotlin-Programming-Programiz)                       |
 | 13. | [GeeksForGeeks Practice](https://github.com/Hardvan/GeeksForGeeks-Practice)                                  |
 
-### Useful Guides
+### Useful Guides 📖
 
 | #   | Project                                                                                   |
 | --- | ----------------------------------------------------------------------------------------- |
@@ -84,7 +84,7 @@
 | 4.  | [Trying Docker](https://github.com/Hardvan/Trying-Docker)                                 |
 | 5.  | [Flask and Firebase Experiment](https://github.com/Hardvan/Flask-and-Firebase-Experiment) |
 
-### Automation Scripts
+### Automation Scripts 🤖
 
 | #   | Project                                                                                                   |
 | --- | --------------------------------------------------------------------------------------------------------- |
@@ -96,20 +96,20 @@
 | 6.  | [Run Android Studio on Linux](https://github.com/Hardvan/Automated-Script-to-run-Android-Studio-on-Linux) |
 | 7.  | [EXEcutor](https://github.com/Hardvan/EXEcutor)                                                           |
 
-### NPTEL Data Science for Engineers
+### NPTEL Data Science for Engineers 📊
 
 | #   | Project                                                                                         |
 | --- | ----------------------------------------------------------------------------------------------- |
 | 1.  | [NPTEL Data Science for Engineers](https://github.com/Hardvan/NPTEL-Data-Science-for-Engineers) |
 
-### Competitive Programming Solutions
+### Competitive Programming Solutions 🖥️
 
 | #   | Project                                                                   |
 | --- | ------------------------------------------------------------------------- |
 | 1.  | [My CodeChef Solutions](https://github.com/Hardvan/My-CodeChef-Solutions) |
 | 2.  | [My LeetCode Solutions](https://github.com/Hardvan/My-Leetcode-Solutions) |
 
-### React.js Based
+### React.js Based 🌐
 
 | #   | Project                                                                 |
 | --- | ----------------------------------------------------------------------- |
@@ -120,40 +120,40 @@
 | 5.  | [Flask & React Connect](https://github.com/Hardvan/Flask-React-Connect) |
 | 6.  | [PokeStats Website](https://github.com/Hardvan/PokeStats-Website)       |
 
-### Machine Learning
+### Machine Learning 🧠
 
 | #   | Project                                                                                 |
 | --- | --------------------------------------------------------------------------------------- |
 | 1.  | [My Machine Learning Projects](https://github.com/Hardvan/My-Machine-Learning-Projects) |
 | 2.  | [Brain Tumor Classification](https://github.com/Hardvan/Brain-Tumor-Classification)     |
 
-### Data Privacy
+### Data Privacy 🛡️
 
 | #   | Project                                                                                                                                                                  |
 | --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | 1.  | [Incremental Diversity](https://github.com/Hardvan/Incremental-Diversity), [Website for Incremental Diversity](https://github.com/Hardvan/Website-Incremental-Diversity) |
 
-### Computer Vision
+### Computer Vision 📷
 
 | #   | Project                                                                                    |
 | --- | ------------------------------------------------------------------------------------------ |
 | 1.  | [SpyEye](https://github.com/Hardvan/SpyEye)                                                |
 | 2.  | [Volume Control, Virtual Drag & Drop](https://github.com/Hardvan/Computer-Vision-Projects) |
 
-### Linux Kernel Development
+### Linux Kernel Development 🐧
 
 | #   | Project                                                         |
 | --- | --------------------------------------------------------------- |
 | 1.  | [HardikHyperionOS](https://github.com/Hardvan/HardikHyperionOS) |
 
-### Python-Intensive
+### Python-Intensive 🐍
 
 | #   | Project                                                                                                           |
 | --- | ----------------------------------------------------------------------------------------------------------------- |
 | 1.  | [Pokemon Game](https://github.com/Hardvan/Pokemon-Game)                                                           |
 | 2.  | [Maze Solver using Ant Colony Optimization](https://github.com/Hardvan/Maze-Solver-using-Ant-Colony-Optimization) |
 
-### Android Studio
+### Android Studio 📱
 
 | #   | Project                                                                                   |
 | --- | ----------------------------------------------------------------------------------------- |
@@ -167,26 +167,26 @@
 | 8.  | [Prime Numbers App](https://github.com/Hardvan/Prime-Numbers-App.git)                     |
 | 9.  | [Randomizer](https://github.com/Hardvan/Randomizer.git)                                   |
 
-### React Native
+### React Native ⚛️
 
 | #   | Project                                                                     |
 | --- | --------------------------------------------------------------------------- |
 | 1.  | [First React Native App](https://github.com/Hardvan/First-React-Native-App) |
 | 2.  | [InsightTracker](https://github.com/Hardvan/InsightTracker)                 |
 
-### Electron Based
+### Electron Based ⚡️
 
 | #   | Project                                                                         |
 | --- | ------------------------------------------------------------------------------- |
 | 1.  | [Electron Screen Recorder](https://github.com/Hardvan/Electron-Screen-Recorder) |
 
-### RISC CPU using Logisim
+### RISC CPU using Logisim 🔧
 
 | #   | Project                                                                      |
 | --- | ---------------------------------------------------------------------------- |
 | 1.  | [Hardik Hyperion Processor](https://github.com/Hardvan/CPU-Hack-2.0-Logisim) |
 
-### Telegram Bots
+### Telegram Bots ✉️
 
 | #   | Project                                         |
 | --- | ----------------------------------------------- |
