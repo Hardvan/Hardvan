@@ -81,9 +81,10 @@
 | 1.  | [Trying Google Gemini API](https://github.com/Hardvan/Trying-Gemini-API.git)              |
 | 2.  | [How to PR](https://github.com/Hardvan/How-to-PR)                                         |
 | 3.  | [Deploy to Render](https://github.com/Hardvan/Deploy-to-Render)                           |
-| 4.  | [Deploy to PythonAnywhere](https://github.com/Hardvan/Deploy-to-PythonAnywhere)           |
-| 5.  | [Trying Docker](https://github.com/Hardvan/Trying-Docker)                                 |
-| 6.  | [Flask and Firebase Experiment](https://github.com/Hardvan/Flask-and-Firebase-Experiment) |
+| 4.  | [Trying Flutter](https://github.com/Hardvan/Trying-Flutter.git)                           |
+| 5.  | [Deploy to PythonAnywhere](https://github.com/Hardvan/Deploy-to-PythonAnywhere)           |
+| 6.  | [Trying Docker](https://github.com/Hardvan/Trying-Docker)                                 |
+| 7.  | [Flask and Firebase Experiment](https://github.com/Hardvan/Flask-and-Firebase-Experiment) |
 
 ### Automation Scripts 🤖
 
