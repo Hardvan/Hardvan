@@ -169,6 +169,12 @@
 | 8.  | [Prime Numbers App](https://github.com/Hardvan/Prime-Numbers-App.git)                     |
 | 9.  | [Randomizer](https://github.com/Hardvan/Randomizer.git)                                   |
 
+### Flutter Based 📱
+
+| #   | Project                                                                   |
+| --- | ------------------------------------------------------------------------- |
+| 1.  | [Flutter Fitness App](https://github.com/Hardvan/Flutter-Fitness-App.git) |
+
 ### React Native ⚛️
 
 | #   | Project                                                                     |
