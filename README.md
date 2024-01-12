@@ -29,12 +29,13 @@
 | --- | ----------------------------------------------------------------------------------- |
 | 1.  | [Emotion Detector](https://github.com/Hardvan/EmotionDetector)                      |
 | 2.  | [ScanSpeaker](https://github.com/Hardvan/ScanSpeaker)                               |
-| 3.  | [Paralyzed by Parallax](https://github.com/Hardvan/Paralyzed-by-Parallax)           |
+| 3.  | [Sentimentinator](https://github.com/Hardvan/Sentimentinator)                       |
 | 4.  | [The OS-sential Guide](https://github.com/Hardvan/The-OS-sential-Guide)             |
-| 5.  | [Text Scanner using EasyOCR](https://github.com/Hardvan/Text-Scanner-using-EasyOCR) |
+| 5.  | [Paralyzed by Parallax](https://github.com/Hardvan/Paralyzed-by-Parallax)           |
 | 6.  | [CipherNet](https://github.com/Hardvan/CipherNet)                                   |
-| 7.  | [Sentimentinator](https://github.com/Hardvan/Sentimentinator)                       |
-| 8.  | [FaceCounter](https://github.com/Hardvan/FaceCounter)                               |
+| 7.  | [Glucovisor](https://github.com/Hardvan/Glucovisor.git)                             |
+| 8.  | [Text Scanner using EasyOCR](https://github.com/Hardvan/Text-Scanner-using-EasyOCR) |
+| 9.  | [FaceCounter](https://github.com/Hardvan/FaceCounter)                               |
 
 ### Internship Projects 🏢
 
