@@ -75,17 +75,18 @@
 | 12. | [Kotlin Notes from Programiz](https://github.com/Hardvan/Kotlin-Programming-Programiz)                       |
 | 13. | [GeeksForGeeks Practice](https://github.com/Hardvan/GeeksForGeeks-Practice)                                  |
 
-### Useful Guides 📖
+### Useful Guides & Experiments 📖
 
-| #   | Project                                                                                   |
-| --- | ----------------------------------------------------------------------------------------- |
-| 1.  | [Trying Google Gemini API](https://github.com/Hardvan/Trying-Gemini-API.git)              |
-| 2.  | [How to PR](https://github.com/Hardvan/How-to-PR)                                         |
-| 3.  | [Deploy to Render](https://github.com/Hardvan/Deploy-to-Render)                           |
-| 4.  | [Trying Flutter](https://github.com/Hardvan/Trying-Flutter.git)                           |
-| 5.  | [Deploy to PythonAnywhere](https://github.com/Hardvan/Deploy-to-PythonAnywhere)           |
-| 6.  | [Trying Docker](https://github.com/Hardvan/Trying-Docker)                                 |
-| 7.  | [Flask and Firebase Experiment](https://github.com/Hardvan/Flask-and-Firebase-Experiment) |
+| #   | Project                                                                                            |
+| --- | -------------------------------------------------------------------------------------------------- |
+| 1.  | [Trying Google Gemini API](https://github.com/Hardvan/Trying-Gemini-API.git)                       |
+| 2.  | [How to PR](https://github.com/Hardvan/How-to-PR)                                                  |
+| 3.  | [Deploy to Render](https://github.com/Hardvan/Deploy-to-Render)                                    |
+| 4.  | [Trying Flutter](https://github.com/Hardvan/Trying-Flutter.git)                                    |
+| 5.  | [Deploy to PythonAnywhere](https://github.com/Hardvan/Deploy-to-PythonAnywhere)                    |
+| 6.  | [Trying Docker](https://github.com/Hardvan/Trying-Docker)                                          |
+| 7.  | [Flask and Firebase Experiment](https://github.com/Hardvan/Flask-and-Firebase-Experiment)          |
+| 8.  | [Trying Google Bard Prompt Engineering](https://github.com/Hardvan/Google-Bard-Prompt-Engineering) |
 
 ### Automation Scripts 🤖
 
