@@ -28,14 +28,15 @@
 | #   | Project                                                                             |
 | --- | ----------------------------------------------------------------------------------- |
 | 1.  | [Emotion Detector](https://github.com/Hardvan/EmotionDetector)                      |
-| 2.  | [ScanSpeaker](https://github.com/Hardvan/ScanSpeaker)                               |
-| 3.  | [Sentimentinator](https://github.com/Hardvan/Sentimentinator)                       |
-| 4.  | [The OS-sential Guide](https://github.com/Hardvan/The-OS-sential-Guide)             |
-| 5.  | [Paralyzed by Parallax](https://github.com/Hardvan/Paralyzed-by-Parallax)           |
-| 6.  | [CipherNet](https://github.com/Hardvan/CipherNet)                                   |
-| 7.  | [Glucovisor](https://github.com/Hardvan/Glucovisor.git)                             |
-| 8.  | [Text Scanner using EasyOCR](https://github.com/Hardvan/Text-Scanner-using-EasyOCR) |
-| 9.  | [FaceCounter](https://github.com/Hardvan/FaceCounter)                               |
+| 2.  | [Hugging Face Playground](https://github.com/Hardvan/Hugging-Face-Playground)       |
+| 3.  | [ScanSpeaker](https://github.com/Hardvan/ScanSpeaker)                               |
+| 4.  | [Sentimentinator](https://github.com/Hardvan/Sentimentinator)                       |
+| 5.  | [The OS-sential Guide](https://github.com/Hardvan/The-OS-sential-Guide)             |
+| 6.  | [Paralyzed by Parallax](https://github.com/Hardvan/Paralyzed-by-Parallax)           |
+| 7.  | [CipherNet](https://github.com/Hardvan/CipherNet)                                   |
+| 8.  | [Glucovisor](https://github.com/Hardvan/Glucovisor.git)                             |
+| 9.  | [Text Scanner using EasyOCR](https://github.com/Hardvan/Text-Scanner-using-EasyOCR) |
+| 10. | [FaceCounter](https://github.com/Hardvan/FaceCounter)                               |
 
 ### Internship Projects 🏢
 
