@@ -90,7 +90,7 @@
 | 8.  | [Trying Google Bard Prompt Engineering](https://github.com/Hardvan/Google-Bard-Prompt-Engineering) |
 | 9.  | [Mark It Down](https://github.com/Hardvan/Mark-It-Down.git)                                        |
 
-### Automation Scripts 🤖
+### Automation Scripts on PyPI 🤖
 
 | #   | Project                                                                                                   |
 | --- | --------------------------------------------------------------------------------------------------------- |
