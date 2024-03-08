@@ -89,6 +89,7 @@
 | 7.  | [Flask and Firebase Experiment](https://github.com/Hardvan/Flask-and-Firebase-Experiment)          |
 | 8.  | [Trying Google Bard Prompt Engineering](https://github.com/Hardvan/Google-Bard-Prompt-Engineering) |
 | 9.  | [Mark It Down](https://github.com/Hardvan/Mark-It-Down.git)                                        |
+| 10. | [Learning PySpark](https://github.com/Hardvan/Learning-PySpark.git)                                |
 
 ### Automation Scripts on PyPI 🤖
 
