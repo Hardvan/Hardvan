@@ -105,6 +105,18 @@
 | 6.  | [Run Android Studio on Linux](https://github.com/Hardvan/Automated-Script-to-run-Android-Studio-on-Linux) |
 | 7.  | [EXEcutor](https://github.com/Hardvan/EXEcutor)                                                           |
 
+### LLVM/Clang Projects 🛠️
+
+| #   | Project                                                                                                                     |
+| --- | --------------------------------------------------------------------------------------------------------------------------- |
+| 1.  | [Analyzing Uniform Participation of MPI Processes Using LLVM/Clang](https://github.com/Hardvan/MPI-analysis-using-LLVM.git) |
+
+### VSCode Extensions 🧩
+
+| #   | Project                                                                         |
+| --- | ------------------------------------------------------------------------------- |
+| 1   | [Crystal Clear Comments](https://github.com/Hardvan/crystal-clear-comments.git) |
+
 ### NPTEL Data Science for Engineers 📊
 
 | #   | Project                                                                                         |
