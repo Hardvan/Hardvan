@@ -78,20 +78,21 @@
 | 12. | [Kotlin Notes from Programiz](https://github.com/Hardvan/Kotlin-Programming-Programiz)                       |
 | 13. | [GeeksForGeeks Practice](https://github.com/Hardvan/GeeksForGeeks-Practice)                                  |
 
-### Useful Guides & Experiments 📖
+### Useful Guide, Experiments & How-Tos 📖
 
-| #   | Project                                                                                            |
-| --- | -------------------------------------------------------------------------------------------------- |
-| 1.  | [Trying Google Gemini API](https://github.com/Hardvan/Trying-Gemini-API.git)                       |
-| 2.  | [How to PR](https://github.com/Hardvan/How-to-PR)                                                  |
-| 3.  | [Deploy to Render](https://github.com/Hardvan/Deploy-to-Render)                                    |
-| 4.  | [Trying Flutter](https://github.com/Hardvan/Trying-Flutter.git)                                    |
-| 5.  | [Deploy to PythonAnywhere](https://github.com/Hardvan/Deploy-to-PythonAnywhere)                    |
-| 6.  | [Trying Docker](https://github.com/Hardvan/Trying-Docker)                                          |
-| 7.  | [Flask and Firebase Experiment](https://github.com/Hardvan/Flask-and-Firebase-Experiment)          |
-| 8.  | [Trying Google Bard Prompt Engineering](https://github.com/Hardvan/Google-Bard-Prompt-Engineering) |
-| 9.  | [Mark It Down](https://github.com/Hardvan/Mark-It-Down.git)                                        |
-| 10. | [Learning PySpark](https://github.com/Hardvan/Learning-PySpark.git)                                |
+| #   | Project                                                                                                                     |
+| --- | --------------------------------------------------------------------------------------------------------------------------- |
+| 1.  | [Trying Google Gemini API](https://github.com/Hardvan/Trying-Gemini-API.git)                                                |
+| 2.  | [How to PR](https://github.com/Hardvan/How-to-PR)                                                                           |
+| 3.  | [How To Deploy a Flask App to Render](https://github.com/Hardvan/How-to-Deploy-a-Flask-App-to-Render.git)                   |
+| 4.  | [How To Deploy a MERN App to Vercel & Render](https://github.com/Hardvan/How-to-Deploy-a-MERN-App-to-Vercel-and-Render.git) |
+| 5.  | [Trying Flutter](https://github.com/Hardvan/Trying-Flutter.git)                                                             |
+| 6.  | [How To Deploy to PythonAnywhere](https://github.com/Hardvan/Deploy-to-PythonAnywhere)                                      |
+| 7.  | [Trying Docker](https://github.com/Hardvan/Trying-Docker)                                                                   |
+| 8.  | [Flask and Firebase Experiment](https://github.com/Hardvan/Flask-and-Firebase-Experiment)                                   |
+| 9.  | [Trying Google Bard Prompt Engineering](https://github.com/Hardvan/Google-Bard-Prompt-Engineering)                          |
+| 10. | [Mark It Down: How To Use Markdown](https://github.com/Hardvan/Mark-It-Down.git)                                            |
+| 11. | [Learning PySpark](https://github.com/Hardvan/Learning-PySpark.git)                                                         |
 
 ### Automation Scripts on PyPI 🤖
 
