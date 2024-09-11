@@ -99,12 +99,14 @@
 | #   | Project                                                                                                   |
 | --- | --------------------------------------------------------------------------------------------------------- |
 | 1.  | [FlaskStarter](https://github.com/Hardvan/FlaskStarter)                                                   |
-| 2.  | [DirecTracer](https://github.com/Hardvan/DirecTracer)                                                     |
-| 3.  | [CPPinator](https://github.com/Hardvan/CPPinator)                                                         |
-| 4.  | [FileHarvestor](https://github.com/Hardvan/FileHarvestor)                                                 |
-| 5.  | [SequenciPy](https://github.com/Hardvan/SequenceiPy)                                                      |
-| 6.  | [Run Android Studio on Linux](https://github.com/Hardvan/Automated-Script-to-run-Android-Studio-on-Linux) |
-| 7.  | [EXEcutor](https://github.com/Hardvan/EXEcutor)                                                           |
+| 2.  | [MERNcraft](https://github.com/Hardvan/MERNcraft)                                                         |
+| 3.  | [PyPIMetaMorphosis](https://github.com/Hardvan/PyPIMetaMorphosis)                                         |
+| 4.  | [DirecTracer](https://github.com/Hardvan/DirecTracer)                                                     |
+| 5.  | [CPPinator](https://github.com/Hardvan/CPPinator)                                                         |
+| 6.  | [FileHarvestor](https://github.com/Hardvan/FileHarvestor)                                                 |
+| 7.  | [SequenciPy](https://github.com/Hardvan/SequenceiPy)                                                      |
+| 8.  | [Run Android Studio on Linux](https://github.com/Hardvan/Automated-Script-to-run-Android-Studio-on-Linux) |
+| 9.  | [EXEcutor](https://github.com/Hardvan/EXEcutor)                                                           |
 
 ### LLVM/Clang Projects 🛠️
 
