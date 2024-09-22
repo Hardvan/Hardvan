@@ -87,19 +87,21 @@
 | 3.  | [How To Deploy a Flask App to PythonAnywhere](https://github.com/Hardvan/Deploy-to-PythonAnywhere)                          |
 | 4.  | [How to PR (Pull Request)](https://github.com/Hardvan/How-to-PR)                                                            |
 | 5.  | [Flask Microservices & k8s Experimentation](https://github.com/Hardvan/Flask-Microservices-and-k8s-Experimentation.git)     |
-| 6.  | [k8s & Spring Boot Experimentation](https://github.com/Hardvan/k8s-and-Spring-Boot-Experimentation.git)                     |
-| 7.  | [Docker & Spring Boot Experimentation](https://github.com/Hardvan/Docker-and-Spring-Boot-Experimentation.git)               |
-| 8.  | [k8s & Flask Experimentation](https://github.com/Hardvan/k8s-and-Flask-Experimentation.git)                                 |
-| 9.  | [Docker & MERN Experimentation](https://github.com/Hardvan/Docker-and-MERN-Experimentation.git)                             |
-| 10. | [k8s & MERN Experimentation](https://github.com/Hardvan/k8s-and-MERN-Experimentation.git)                                   |
-| 11. | [Docker & Flask Experimentation](https://github.com/Hardvan/Docker-and-Flask-Experimentation.git)                           |
-| 12. | [Trying Google Gemini API](https://github.com/Hardvan/Trying-Gemini-API.git)                                                |
-| 13. | [Trying Google Bard Prompt Engineering](https://github.com/Hardvan/Google-Bard-Prompt-Engineering)                          |
-| 14. | [Trying Flutter](https://github.com/Hardvan/Trying-Flutter.git)                                                             |
-| 15. | [Flask & Firebase Experiment](https://github.com/Hardvan/Flask-and-Firebase-Experiment)                                     |
-| 16. | [Trying Docker](https://github.com/Hardvan/Trying-Docker)                                                                   |
-| 17. | [Mark It Down: How To Use Markdown](https://github.com/Hardvan/Mark-It-Down.git)                                            |
-| 18. | [Learning PySpark](https://github.com/Hardvan/Learning-PySpark.git)                                                         |
+| 6.  | [FARM (FastAPI, React, MongoDB) Blog App Experimentation](https://github.com/Hardvan/FARM-FastAPI-React-MongoDB-Blog-App)   |
+| 7.  | [FastAPI & k8s Experimentation](https://github.com/Hardvan/FastAPI-and-k8s-Experimentation)                                 |
+| 8.  | [k8s & Spring Boot Experimentation](https://github.com/Hardvan/k8s-and-Spring-Boot-Experimentation.git)                     |
+| 9.  | [Docker & Spring Boot Experimentation](https://github.com/Hardvan/Docker-and-Spring-Boot-Experimentation.git)               |
+| 10. | [k8s & Flask Experimentation](https://github.com/Hardvan/k8s-and-Flask-Experimentation.git)                                 |
+| 11. | [Docker & MERN Experimentation](https://github.com/Hardvan/Docker-and-MERN-Experimentation.git)                             |
+| 12. | [k8s & MERN Experimentation](https://github.com/Hardvan/k8s-and-MERN-Experimentation.git)                                   |
+| 13. | [Docker & Flask Experimentation](https://github.com/Hardvan/Docker-and-Flask-Experimentation.git)                           |
+| 14. | [Trying Google Gemini API](https://github.com/Hardvan/Trying-Gemini-API.git)                                                |
+| 15. | [Trying Google Bard Prompt Engineering](https://github.com/Hardvan/Google-Bard-Prompt-Engineering)                          |
+| 16. | [Trying Flutter](https://github.com/Hardvan/Trying-Flutter.git)                                                             |
+| 17. | [Flask & Firebase Experiment](https://github.com/Hardvan/Flask-and-Firebase-Experiment)                                     |
+| 18. | [Trying Docker](https://github.com/Hardvan/Trying-Docker)                                                                   |
+| 19. | [Mark It Down: How To Use Markdown](https://github.com/Hardvan/Mark-It-Down.git)                                            |
+| 20. | [Learning PySpark](https://github.com/Hardvan/Learning-PySpark.git)                                                         |
 
 ### Automation Scripts on PyPI 🤖
 
