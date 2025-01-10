@@ -51,7 +51,7 @@
 
 | #   | Project                                                                              |
 | --- | ------------------------------------------------------------------------------------ |
-| 1.  | [In a Heart Beat](https://github.com/Hardvan/JITHack-v3) (JITHack 2023)              |
+| 1.  | [In a Heart Beat](https://github.com/Hardvan/JITHack-v3) (JITHack 2022)              |
 | 2.  | [Learning Gamified](https://github.com/Hardvan/LearningGamified) (EducateHacks 2023) |
 
 ### CISCO Skill Lab 📚
